@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JCNew</string>
+    <string name="hello">Hey There,</string>
+    <string name="create_account">Create an Account</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="terms_and_conditions">By continuing, you agree to our Terms of Service and Privacy Policy</string>
+    <string name="terms_and_conditions_header">Terms of Service</string>
+    <string name="privacy_policy_header">Privacy Policy</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="go_to_login">Already have an account? login</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="go_to_register">Don\'t have an account yet?</string>
+</resources>
